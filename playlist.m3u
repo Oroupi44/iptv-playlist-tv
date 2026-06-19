@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1, bein sport 1 max
-https://yaciretv.live:8080/max1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, bein sport 2 max
+
+#EXTINF:-1, bein sport 2 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yaciretv.live:8080/max22/tracks-v1a1/mono.ts.m3u8
+
