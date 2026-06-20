@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BEIN FHD", beIN Sports 1 MAX [FHD]
-http://server1.com/bein1_fhd.m3u8
+# السيرفر أو البث الأول
+#EXTINF:-1 tvg-id="beIN_Sports_Max_1" tvg-name="beIN SPORTS MAX 1", beIN SPORTS MAX 1
+http://server1.com/stream1.m3u8
 
-#EXTINF:-1 group-title="BEIN HD", beIN Sports 1 MAX [HD]
-http://server2.com/bein1_hd.m3u8
+# السيرفر أو البث الثاني (Backup)
+#EXTINF:-1 tvg-id="beIN_Sports_Max_1" tvg-name="beIN SPORTS MAX 1", beIN SPORTS MAX 1
+http://server2.com/stream2.m3u8
 
-#EXTINF:-1 group-title="BEIN LOW", beIN Sports 1 MAX [SD]
-http://server1.com/bein1_sd.m3u8
+# السيرفر أو البث الثالث (الجودة التانية)
+#EXTINF:-1 tvg-id="beIN_Sports_Max_1" tvg-name="beIN SPORTS MAX 1", beIN SPORTS MAX 1
+http://server3.com/stream3.m3u8
