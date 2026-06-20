@@ -1,13 +1,13 @@
 #EXTM3U
 
 # السيرفر أو البث الأول
-#EXTINF:-1 tvg-id="beIN_Sports_Max_2" tvg-name="beIN SPORTS MAX 1", beIN SPORTS MAX 1
+#EXTINF:-1 tvg-id="beIN_Sports_Max_2" tvg-name="beIN SPORTS MAX 2", beIN SPORTS MAX 2
 https://yaciretv.live:8080/max22/tracks-v1a1/mono.ts.m3u8
 
 # السيرفر أو البث الثاني (Backup)
-#EXTINF:-1 tvg-id="beIN_Sports_Max_2" tvg-name="beIN SPORTS MAX 1", beIN SPORTS MAX 1
+#EXTINF:-1 tvg-id="beIN_Sports_Max_2" tvg-name="beIN SPORTS MAX 2", beIN SPORTS MAX 2
 https://oottoo.online/max2g/tracks-v1a1/mono.m3u8
 
 # السيرفر أو البث الثالث (الجودة التانية)
-#EXTINF:-1 tvg-id="beIN_Sports_Max_2" tvg-name="beIN SPORTS MAX 1", beIN SPORTS MAX 1
+#EXTINF:-1 tvg-id="beIN_Sports_Max_2" tvg-name="beIN SPORTS MAX 2", beIN SPORTS MAX 2
 https://yaciretv.live:8080/max3/tracks-v1a1/mono.ts.m3u8
